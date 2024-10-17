@@ -1,0 +1,41 @@
+First_Name,Last_Name,User_ID,Phone_Model,Activation_Date,Timestamp,Purchase_Location,Company,City,Country,Carrier_Plan,Amount_Due,MSISDN,phone_type
+John,Doe,JD001,iPhone 14,2024-01-02,2024-01-02 08:45:00,Apple Store,Apple,New York,USA,Unlimited Data,$89.99,212-555-0101,iPhone
+Jane,Smith,JS002,Samsung Galaxy S23,2024-01-05,2024-01-05 09:12:00,Best Buy,Samsung,Los Angeles,USA,Family Plan,$79.99,213-555-0102,Samsung
+Emily,Jones,EJ003,Google Pixel 8,2024-01-10,2024-01-10 10:20:00,Google Store,Google,San Francisco,USA,Unlimited Data,$89.99,415-555-0103,Google
+Michael,Brown,MB004,OnePlus 11,2024-01-15,2024-01-15 11:05:00,OnePlus Store,OnePlus,Chicago,USA,Unlimited Data,$89.99,312-555-0104,OnePlus
+Sarah,Johnson,SJ005,iPhone 13,2024-01-20,2024-01-20 12:00:00,Apple Store,Apple,Miami,USA,Family Plan,$79.99,305-555-0105,iPhone
+David,White,DW006,Samsung Galaxy A54,2024-02-01,2024-02-01 08:30:00,Best Buy,Samsung,Seattle,USA,Unlimited Data,$89.99,206-555-0106,Samsung
+Laura,Martinez,LM007,Google Pixel 7a,2024-02-05,2024-02-05 09:45:00,Google Store,Google,Boston,USA,Family Plan,$79.99,617-555-0107,Google
+Chris,Garcia,CG008,OnePlus Nord 3,2024-02-10,2024-02-10 10:15:00,OnePlus Store,OnePlus,Dallas,USA,Unlimited Data,$89.99,214-555-0108,OnePlus
+Olivia,Wilson,OW009,iPhone 14 Pro,2024-02-15,2024-02-15 11:30:00,Apple Store,Apple,Austin,USA,Family Plan,$79.99,512-555-0109,iPhone
+James,Lee,JL010,Samsung Galaxy Z Fold 5,2024-02-20,2024-02-20 12:05:00,Best Buy,Samsung,San Diego,USA,Unlimited Data,$89.99,619-555-0110,Samsung
+Sophia,Allen,SA011,Google Pixel 8 Pro,2024-03-01,2024-03-01 08:50:00,Google Store,Google,Washington, USA,Family Plan,$79.99,202-555-0111,Google
+William,Harris,WH012,OnePlus 11T,2024-03-05,2024-03-05 09:30:00,OnePlus Store,OnePlus,Philadelphia,USA,Unlimited Data,$89.99,215-555-0112,OnePlus
+Isabella,Clark,IC013,iPhone SE,2024-03-10,2024-03-10 10:45:00,Apple Store,Apple,Phoenix,USA,Family Plan,$79.99,602-555-0113,iPhone
+Matthew,Roberts,MR014,Samsung Galaxy A74,2024-03-15,2024-03-15 11:20:00,Best Buy,Samsung,Denver,USA,Unlimited Data,$89.99,303-555-0114,Samsung
+Ava,Adams,AA015,Google Pixel 7,2024-03-20,2024-03-20 12:00:00,Google Store,Google,Atlanta,USA,Family Plan,$79.99,404-555-0115,Google
+Ethan,Scott,ES016,OnePlus 10 Pro,2024-04-01,2024-04-01 08:40:00,OnePlus Store,OnePlus,Charlotte,USA,Unlimited Data,$89.99,704-555-0116,OnePlus
+Mia,Young,MY017,iPhone 14 Mini,2024-04-05,2024-04-05 09:20:00,Apple Store,Apple,Orlando,USA,Family Plan,$79.99,321-555-0117,iPhone
+Alexander,Walker,AW018,Samsung Galaxy S23 Ultra,2024-04-10,2024-04-10 10:05:00,Best Buy,Samsung,Tampa,USA,Unlimited Data,$89.99,813-555-0118,Samsung
+Charlotte,Hall,CH019,Google Pixel 8a,2024-04-15,2024-04-15 11:00:00,Google Store,Google,Nashville,USA,Family Plan,$79.99,615-555-0119,Google
+Benjamin,Allen,BA020,OnePlus 9,2024-04-20,2024-04-20 12:30:00,OnePlus Store,OnePlus,Indianapolis,USA,Unlimited Data,$89.99,317-555-0120,OnePlus
+Harper,Turner,HT021,iPhone 13 Mini,2024-05-01,2024-05-01 08:55:00,Apple Store,Apple,Columbus,USA,Family Plan,$79.99,614-555-0121,iPhone
+Liam,Phillips,LP022,Samsung Galaxy Z Flip 5,2024-05-05,2024-05-05 09:40:00,Best Buy,Samsung,Minneapolis,USA,Unlimited Data,$89.99,612-555-0122,Samsung
+Ella,Carter,EC023,Google Pixel 6a,2024-05-10,2024-05-10 10:20:00,Google Store,Google,St. Louis,USA,Family Plan,$79.99,314-555-0123,Google
+Noah,Mitchell,NM024,OnePlus Nord N200,2024-05-15,2024-05-15 11:15:00,OnePlus Store,OnePlus,Baltimore,USA,Unlimited Data,$89.99,410-555-0124,OnePlus
+Zoe,Bailey,ZB025,iPhone 12,2024-05-20,2024-05-20 12:05:00,Apple Store,Apple,San Jose,USA,Family Plan,$79.99,408-555-0125,iPhone
+Mason,Watson,MW026,Samsung Galaxy S22,2024-06-01,2024-06-01 08:50:00,Best Buy,Samsung,San Antonio,USA,Unlimited Data,$89.99,210-555-0126,Samsung
+Amelia,Gray,AG027,Google Pixel 7 Pro,2024-06-05,2024-06-05 09:35:00,Google Store,Google,Fort Worth,USA,Family Plan,$79.99,817-555-0127,Google
+Jacob,King,JK028,OnePlus 8T,2024-06-10,2024-06-10 10:10:00,OnePlus Store,OnePlus,Jacksonville,USA,Unlimited Data,$89.99,904-555-0128,OnePlus
+Avery,Green,AG029,iPhone 14 Pro Max,2024-06-15,2024-06-15 11:00:00,Apple Store,Apple,Memphis,USA,Family Plan,$79.99,901-555-0129,iPhone
+Elijah,Thompson,ET030,Samsung Galaxy A53,2024-06-20,2024-06-20 12:20:00,Best Buy,Samsung,El Paso,USA,Unlimited Data,$89.99,915-555-0130,Samsung
+Grace,Martinez,GM031,Google Pixel 8 XL,2024-07-01,2024-07-01 08:45:00,Google Store,Google,Washington,USA,Family Plan,$79.99,202-555-0131,Google
+Daniel,Robinson,DR032,OnePlus 11R,2024-07-05,2024-07-05 09:15:00,OnePlus Store,OnePlus,Milwaukee,USA,Unlimited Data,$89.99,414-555-0132,OnePlus
+Chloe,Mitchell,CM033,iPhone 13 Pro,2024-07-10,2024-07-10 10:30:00,Apple Store,Apple,Virginia Beach,USA,Family Plan,$79.99,757-555-0133,iPhone
+Lucas,Garcia,LG034,Samsung Galaxy S20 FE,2024-07-15,2024-07-15 11:45:00,Best Buy,Samsung,Atlanta,USA,Unlimited Data,$89.99,404-555-0134,Samsung
+Natalie,White,NW035,Google Pixel 7 Pro 5G,2024-07-20,2024-07-20 12:00:00,Google Store,Google,Philadelphia,USA,Family Plan,$79.99,215-555-0135,Google
+Caleb,Johnson,CJ036,OnePlus 10T,2024-08-01,2024-08-01 08:50:00,OnePlus Store,OnePlus,Austin,USA,Unlimited Data,$89.99,512-555-0136,OnePlus
+Samantha,Adams,SA037,iPhone 13 Pro Max,2024-08-05,2024-08-05 09:40:00,Apple Store,Apple,Newark,USA,Family Plan,$79.99,973-555-0137,iPhone
+Aiden,Harris,AH038,Samsung Galaxy Z Flip 5,2024-08-10,2024-08-10 10:30:00,Best Buy,Samsung,Cleveland,USA,Unlimited Data,$89.99,216-555-0138,Samsung
+Scarlett,Allen,SA039,Google Pixel 6 Pro,2024-08-15,2024-08-15 11:20:00,Google Store,Google,Detroit,USA,Family Plan,$79.99,313-555-0139,Google
+Nathan,Roberts,NR040,OnePlus 11 5G,2024-08-20,2024-08-20 12:10:00,OnePlus Store,OnePlus,Sacramento,USA,Unlimited Data,$89.99,916-555-0140,OnePlus
