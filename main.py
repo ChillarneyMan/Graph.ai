@@ -35,7 +35,7 @@ prompt = ChatPromptTemplate.from_messages(
 chain = prompt | llm_csv
 
 # Initialize LLM for document agent
-llm_doc = OpenAI(temperature=0.9, max_tokens=3000)
+llm_doc = OpenAI(temperature=0.9, max_tokens=3000, model='gpt-4o-mini')
 
 def main():
     st.set_page_config(page_title="Data Analysis")
