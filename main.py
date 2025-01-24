@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import streamlit as st
-from Secret import API_KEY
+from secret import API_KEY
 from langchain_openai import ChatOpenAI, OpenAI
 from langchain.prompts import ChatPromptTemplate, MessagesPlaceholder
 from graph_generator import GraphGenerator
